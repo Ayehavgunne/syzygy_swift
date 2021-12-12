@@ -1,0 +1,100 @@
+{
+  "frames": {
+    "Hank_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 41
+      },
+      "duration": 100
+    },
+    "Hank_1.png": {
+      "frame": {
+        "x": 0,
+        "y": 41,
+        "w": 24,
+        "h": 41
+      },
+      "duration": 100
+    },
+    "Hank_2.png": {
+      "frame": {
+        "x": 0,
+        "y": 82,
+        "w": 24,
+        "h": 41
+      },
+      "duration": 100
+    },
+    "Hank_3.png": {
+      "frame": {
+        "x": 0,
+        "y": 123,
+        "w": 24,
+        "h": 41
+      },
+      "duration": 100
+    },
+    "Hank_4.png": {
+      "frame": {
+        "x": 0,
+        "y": 164,
+        "w": 24,
+        "h": 41
+      },
+      "duration": 100
+    },
+    "Hank_5.png": {
+      "frame": {
+        "x": 0,
+        "y": 205,
+        "w": 24,
+        "h": 41
+      },
+      "duration": 100
+    },
+    "Hank_6.png": {
+      "frame": {
+        "x": 0,
+        "y": 246,
+        "w": 24,
+        "h": 41
+      },
+      "duration": 100
+    },
+    "Hank_7.png": {
+      "frame": {
+        "x": 0,
+        "y": 287,
+        "w": 24,
+        "h": 41
+      },
+      "duration": 100
+    },
+    "Hank_8.png": {
+      "frame": {
+        "x": 0,
+        "y": 328,
+        "w": 24,
+        "h": 41
+      },
+      "duration": 100
+    }
+  },
+  "meta": {
+    "app": "http://www.aseprite.org/",
+    "version": "1.2.29",
+    "image": "Hank_idle.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 24,
+      "h": 369
+    },
+    "sprite_size": {
+      "w": 24,
+      "h": 41
+    },
+    "scale": 3
+  }
+}

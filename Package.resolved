@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Raylib",
+        "repositoryURL": "https://github.com/STREGAsGate/Raylib.git",
+        "state": {
+          "branch": "master",
+          "revision": "79248b76558ab91d564f2d76795be7a56e2c85b2",
+          "version": null
+        }
+      },
+      {
+        "package": "Yams",
+        "repositoryURL": "https://github.com/jpsim/Yams.git",
+        "state": {
+          "branch": null,
+          "revision": "9ff1cc9327586db4e0c8f46f064b6a82ec1566fa",
+          "version": "4.0.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,103 @@
+{
+  "frames": {
+    "Bob_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 27
+      },
+      "duration": 100
+    },
+    "Bob_1.png": {
+      "frame": {
+        "x": 0,
+        "y": 27,
+        "w": 25,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 27
+      },
+      "duration": 100
+    },
+    "Bob_2.png": {
+      "frame": {
+        "x": 0,
+        "y": 54,
+        "w": 25,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 27
+      },
+      "duration": 100
+    },
+    "Bob_3.png": {
+      "frame": {
+        "x": 0,
+        "y": 81,
+        "w": 25,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 27
+      },
+      "duration": 100
+    }
+  },
+  "meta": {
+    "app": "http://www.aseprite.org/",
+    "version": "1.2.29",
+    "image": "Bob_idle.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 25,
+      "h": 108
+    },
+    "sprite_size": {
+      "w": 25,
+      "h": 27
+    },
+    "scale": 3
+  }
+}
