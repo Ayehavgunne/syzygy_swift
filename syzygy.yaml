@@ -1,0 +1,11 @@
+debug: false
+show_fps: true
+graphics:
+  target_framerate: 600
+  fullscreen: false
+  hardware_acceleration: false
+  vsync: false
+  scaled: true
+  resolution: # 16:9 aspect ratio only please
+    width: 1920
+    height: 1080

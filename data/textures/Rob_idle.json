@@ -1,0 +1,73 @@
+{
+  "frames": {
+    "Rob_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 34
+      },
+      "duration": 100
+    },
+    "Rob_1.png": {
+      "frame": {
+        "x": 0,
+        "y": 34,
+        "w": 37,
+        "h": 34
+      },
+      "duration": 100
+    },
+    "Rob_2.png": {
+      "frame": {
+        "x": 0,
+        "y": 68,
+        "w": 37,
+        "h": 34
+      },
+      "duration": 100
+    },
+    "Rob_3.png": {
+      "frame": {
+        "x": 0,
+        "y": 102,
+        "w": 37,
+        "h": 34
+      },
+      "duration": 100
+    },
+    "Rob_4.png": {
+      "frame": {
+        "x": 0,
+        "y": 136,
+        "w": 37,
+        "h": 34
+      },
+      "duration": 100
+    },
+    "Rob_5.png": {
+      "frame": {
+        "x": 0,
+        "y": 170,
+        "w": 37,
+        "h": 34
+      },
+      "duration": 100
+    }
+  },
+  "meta": {
+    "app": "http://www.aseprite.org/",
+    "version": "1.2.29",
+    "image": "Rob_idle.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 37,
+      "h": 204
+    },
+    "sprite_size": {
+      "w": 37,
+      "h": 34
+    },
+    "scale": 3
+  }
+}

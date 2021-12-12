@@ -1,0 +1,109 @@
+{
+  "frames": {
+    "Enemy_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 19
+      },
+      "duration": 100
+    },
+    "Enemy_1.png": {
+      "frame": {
+        "x": 0,
+        "y": 19,
+        "w": 32,
+        "h": 19
+      },
+      "duration": 100
+    },
+    "Enemy_2.png": {
+      "frame": {
+        "x": 0,
+        "y": 38,
+        "w": 32,
+        "h": 19
+      },
+      "duration": 100
+    },
+    "Enemy_3.png": {
+      "frame": {
+        "x": 0,
+        "y": 57,
+        "w": 32,
+        "h": 19
+      },
+      "duration": 100
+    },
+    "Enemy_4.png": {
+      "frame": {
+        "x": 0,
+        "y": 76,
+        "w": 32,
+        "h": 19
+      },
+      "duration": 100
+    },
+    "Enemy_5.png": {
+      "frame": {
+        "x": 0,
+        "y": 95,
+        "w": 32,
+        "h": 19
+      },
+      "duration": 100
+    },
+    "Enemy_6.png": {
+      "frame": {
+        "x": 0,
+        "y": 114,
+        "w": 32,
+        "h": 19
+      },
+      "duration": 100
+    },
+    "Enemy_7.png": {
+      "frame": {
+        "x": 0,
+        "y": 133,
+        "w": 32,
+        "h": 19
+      },
+      "duration": 100
+    },
+    "Enemy_8.png": {
+      "frame": {
+        "x": 0,
+        "y": 152,
+        "w": 32,
+        "h": 19
+      },
+      "duration": 100
+    },
+    "Enemy_9.png": {
+      "frame": {
+        "x": 0,
+        "y": 171,
+        "w": 32,
+        "h": 19
+      },
+      "duration": 100
+    }
+  },
+  "meta": {
+    "app": "http://www.aseprite.org/",
+    "version": "1.2.29",
+    "image": "Enemy_idle.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 32,
+      "h": 190
+    },
+    "sprite_size": {
+      "w": 32,
+      "h": 19
+    },
+    "scale": 3
+  }
+}
